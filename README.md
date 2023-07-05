@@ -13,10 +13,10 @@ Technological Dependencies of the News Websites :
   The entire news website is open-source and has been developed in the Node JS platform with no database. It is a simple and basic level news website that is developed using the programming languages HTML, CSS, Javascript, and EJS. The Integrated Development Environment used for developing this news web application is the Visual Studio Code. However, running the code in this mentioned IDE or any other IDE would yield a 100% smooth and bug-free execution. Moreover, some dependencies are required to be installed for this project that involves ejs, express, body-parser, math, Axios, and moment. While setting up the app for its execution, it is required to install Nodemon for starting the server automatically which would help in restarting the server automatically whenever any change is detected. Thus by changing the script section as required the application is set up for the developer run and normal run.
 
 Software Specification :
-  Operating System: Windows || mac OS
-  Project Platform: Node JS
-  Programming Language: HTML, CSS, JavaScript, EJS
-  IDE Tool: Visual Studio
+  Operating System: Windows || mac OS ,
+  Project Platform: Node JS ,
+  Programming Language: HTML, CSS, JavaScript, EJS .
+  IDE Tool: Visual Studio .
 
 
 
